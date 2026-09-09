@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "allaysmpS2.aternos.me",
+    "ip": "allaysmpS3.aternos.me",
     "port": 26393,
     "version": "1.21.11",
     "try-creative": false
