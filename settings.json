@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Afk bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "M3XPLAYZ",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "allaysmpS3.aternos.me",
+    "port": 26393,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
